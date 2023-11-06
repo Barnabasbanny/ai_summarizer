@@ -20,7 +20,7 @@ const Hero = () => {
         <h2 className="desc">
             Simplify your reading with Summarize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.
         </h2>
-    </header>
+    </header> 
   )
 }
 
